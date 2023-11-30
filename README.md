@@ -50,7 +50,7 @@ Future iterations could:
 To run the game:
 
 ```
-python trivia.py
+trivia.py
 ```
 
 Sample session:
